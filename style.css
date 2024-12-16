@@ -1,3 +1,16 @@
 body {
+  background-color: #D4CBE5;
+}
 
+h7 {
+  color: #DB93B0;
+  font-size: 150%;
+  font-variant: small-caps;
+  text-decoration-line: overline underline;
+  text-decoration-color: #0496FF
+}
+
+img{
+  width: 500px;
+  
 }
